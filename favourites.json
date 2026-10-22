@@ -1,0 +1,38 @@
+[
+    {
+        "name": "New Glenn | Blue Ring-1",
+        "launch date": "2026-12-31T00:00:00Z",
+        "launch status": "To Be Determined",
+        "rocket name": "New Glenn",
+        "launch service provider": "Blue Origin",
+        "launch site": "Launch Complex 36A",
+        "discription": "The first mission of Blue Ring, Blue Origin's all-in-one, high-powered hybrid solar electric and chemical propelled spacecraft, will test the spacecraft's operations in Geostationary Transfer Orbit (GTO), as well as subsequent operations after reaching Geostationary Orbit (GEO).\r\n\r\nIt will carry one of Scout Space's flagship next-generation space domain awareness (SDA) Owl sensors, which is designed to enhance real-time tracking, characterization, and assessment of space objects by integrating advanced optical sensing, onboard artificial intelligence-driven processing, and autonomous decision-making capabilities to deliver domain-wide intelligence in space in support of the U.S. Space Force\u2019s space control mission set.\r\n\r\nBlue Ring will also carry Optimum Technologies (OpTech)'s next-generation Caracal optical payload, which is designed to provide actionable insights on resident space objects and orbital activity and includes onboard image storage, object detection algorithms, and passive thermal control. The payload is designed to operate flexibly across dynamic orbits over a year-long mission profile.\r\n\r\nSeveral internal Blue Origin payloads will also be hosted."
+    },
+    {
+        "name": "Spectrum | 1 x Pelican satellite",
+        "launch date": "2026-12-31T00:00:00Z",
+        "launch status": "To Be Determined",
+        "rocket name": "Spectrum",
+        "launch service provider": "Isar Aerospace",
+        "launch site": "Orbital Launch Pad",
+        "discription": "Payload consists of a single Pelican high-resolution imaging satellite for Planet Labs Germany."
+    },
+    {
+        "name": "Vulcan | NROL-64",
+        "launch date": "2026-12-31T00:00:00Z",
+        "launch status": "To Be Determined",
+        "rocket name": "Vulcan",
+        "launch service provider": "United Launch Alliance",
+        "launch site": "Space Launch Complex 41",
+        "discription": "Classified payload for the US National Reconnaissance Office"
+    },
+    {
+        "name": "Falcon 9 Block 5 | Rivada 4",
+        "launch date": "2026-12-31T00:00:00Z",
+        "launch status": "To Be Determined",
+        "rocket name": "Falcon 9",
+        "launch service provider": "SpaceX",
+        "launch site": "Space Launch Complex 4E",
+        "discription": "24 satellites for Rivada's internet constellation."
+    }
+]
