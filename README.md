@@ -50,7 +50,7 @@ space-launch-tracker/
 ├── favourites.json
 └── README.md
 
-Note: "favourites.json" may be created automatically by the program when you save favourites. You do not need to upload it if the program generates it.
+Note: "favourites.json" may be created automatically by the program when you save favourites. You do not need to download it the program generates it.
 
 🎯 Learning Goals
 
